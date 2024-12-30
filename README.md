@@ -1,4 +1,4 @@
-![vehicle_insurance]()
+![vehicle_insurance](https://github.com/rohit6196/python--vehicle_insurance_analysis/blob/main/vechicle%20insurance.png)
 # 🚗 **Vehicle Insurance Analysis Project** 🛠️
 
 ## 📝 **Objective**
@@ -59,13 +59,13 @@ The dataset contains 12 columns, including:
 
 ## 🌟 **Highlights**
 ### 🔹 **Age Distribution Analysis**
-![Age Distribution](link_to_image)
+![Age Distribution](https://github.com/rohit6196/python--vehicle_insurance_analysis/blob/main/age%20distribution%20.png)
 
 ### 🔹 **Premium Distribution**
-![Premium Distribution](link_to_image)
+![Premium Distribution](https://github.com/rohit6196/python--vehicle_insurance_analysis/blob/main/premium%20distribution.png)
 
 ### 🔹 **Gender Analysis**
-![Gender Analysis](link_to_image)
+![Gender Analysis](https://github.com/rohit6196/python--vehicle_insurance_analysis/blob/main/gender%20distribution.png)
 
 ---
 
